@@ -1,5 +1,5 @@
 class Solution {
-    public int getSecondLargest(int[] arr) {
+public int getSecondLargest(int[] arr) {
         if(arr.length < 2){
             return -1;
         }
